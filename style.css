@@ -1,6 +1,6 @@
 body{
-    /* width: 99.7%; */
-    /* margin: auto; */
+    /*width: 90%;
+    margin: auto;*/
     display: grid;
     grid-template-columns: 1fr 1fr;
     grid-template-rows: 1fr 8fr 1fr;
@@ -17,6 +17,7 @@ body{
     /* width: 100%; */
     grid-area: 1/1/2/2;
     padding: 0px;
+    font-size: 0.9em;
     /* padding-left: 70px;  */
     /* font-family: 'Big Shoulders Inline Display', cursive; */
     font-family: 'Montserrat', sans-serif;
@@ -38,8 +39,8 @@ body{
     border-right : 12px solid transparent;
     border-bottom : 21px solid rgba(30,67,134,255);
     border-left : 12px solid transparent; 
-    margin-right: -330px;  
-    margin-top: 46px;
+    margin-right: 10px;  
+    margin-top: 10px;
     margin-left: 30px;
        
     
